@@ -12,7 +12,7 @@ const About = () => {
         {/* Hero Section */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-            Despre SaltPro Distribution
+            Despre Samia.ro
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Suntem o companie românească specializată în distribuția de sare și produse 
@@ -26,7 +26,7 @@ const About = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             <div>
               <p className="text-gray-600 mb-4">
-                SaltPro Distribution a fost fondată în 2009 cu misiunea de a oferi 
+                Samia.ro a fost fondată în 2009 cu misiunea de a oferi 
                 produse de sare de cea mai înaltă calitate pentru industrii diverse. 
                 Începând ca o mică companie locală, am crescut constant pentru a deveni 
                 unul dintre furnizorii de încredere la nivel național.

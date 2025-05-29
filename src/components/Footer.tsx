@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <h3 className="text-2xl font-bold mb-4">SaltPro Distribution</h3>
+            <h3 className="text-2xl font-bold mb-4">Samia.ro</h3>
             <p className="text-gray-300 mb-4">
               Furnizor de încredere de sare și produse conexe pentru industrii diverse. 
               Cu peste 30 de produse în catalog, servim restaurante, bacanii, macelării, 
@@ -53,7 +53,7 @@ const Footer = () => {
             <ul className="space-y-2 text-gray-300">
               <li className="flex items-center">
                 <Mail className="h-4 w-4 mr-2" />
-                contact@saltpro.ro
+                contact@samia.ro
               </li>
               <li className="flex items-center">
                 <Phone className="h-4 w-4 mr-2" />
@@ -69,7 +69,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-300">
-          <p>&copy; 2024 SaltPro Distribution. Toate drepturile rezervate.</p>
+          <p>&copy; 2024 Samia.ro. Toate drepturile rezervate.</p>
         </div>
       </div>
     </footer>
